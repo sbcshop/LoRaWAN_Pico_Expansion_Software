@@ -2,6 +2,9 @@
 
 <img src="https://github.com/sbcshop/LoRaWAN_Pico_Expansion_Software/blob/main/images/feature_banner.png"  width= "" height= "">
 
+Powered by the Raspberry Pi Pico, our LoRaWAN Node opens the door to endless IoT possibilities. Featuring a high-performance LoRa module and a vibrant TFT display, this Node offers unparalleled connectivity and visual interaction for your projects. With support for multiple LoRaWAN bands and certifications, it's ready to revolutionize your IoT experience.
+The RAK3172 LoRaWAN Node, powered by Raspberry Pi Pico, offers a versatile and powerful solution for your IoT projects. With its robust features, including LoRaWAN compliance, server platform compatibility, and support for P2P communication, it's poised to elevate your IoT experience to new heights.
+
 This Github provides getting started instructions for LoRaWAN for Pico Expansion.
 
 
