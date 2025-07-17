@@ -70,7 +70,7 @@ This Github provides getting started instructions for LoRaWAN for Pico Expansion
     <img src="https://github.com/sbcshop/LoRaWAN_Pico_Expansion_Software/blob/main/images/file_view.png" width="451" height="418">
     <img src="https://github.com/sbcshop/LoRaWAN_Pico_Expansion_Software/blob/main/images/board_select.png"  width="" height="">
 
-  * Upload [lib]() folder to Pico board and save [example]() to try as **main.py**.
+  * Upload [lib](https://github.com/sbcshop/LoRaWAN_Pico_Expansion_Software/tree/main/examples/lib) folder to Pico board and save [example](https://github.com/sbcshop/LoRaWAN_Pico_Expansion_Software/tree/main/examples) to try as **main.py**.
 
     <img src="https://github.com/sbcshop/LoRaWAN_Pico_Expansion_Software/blob/main/images/upload_files.png"  width="" height="">
 
@@ -82,6 +82,7 @@ This Github provides getting started instructions for LoRaWAN for Pico Expansion
 
     <img src="https://github.com/sbcshop/LoRaWAN_Pico_Expansion_Software/blob/main/images/jumper_sel.jpg" width="233" height="162">
 
+  * Once everything all set so now you can try [examples](https://github.com/sbcshop/LoRaWAN_Pico_Expansion_Software/tree/main/examples) related to P2P/Lorawan commmunication 
 
 ## RAK3172 Module Standalone
 * You can access RAK3172 module directly. For this remove Pico from header and change jumper selection to USB-RAK side as shown below,
